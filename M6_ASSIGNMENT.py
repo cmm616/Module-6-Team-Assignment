@@ -17,9 +17,9 @@ elif guess > num:
     guess = int(input("Enter an integer from 1 to 12: "))
     print ("You guessed it right! Bye!")
 
-Revisons made:
-Too many if statments confused the code. With the following corrections made the code now loops 
-until the correct number is choosen.
+# Revisons made:
+# Too many if statments confused the code. With the following corrections made the code now loops 
+# until the correct number is choosen.
 
 #Flowchart
 #https://drive.google.com/file/d/1FrVHObccMs5HFUgSfuSSeS7fRazzLCWv/view?usp=drive_link
