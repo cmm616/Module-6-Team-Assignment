@@ -1,5 +1,3 @@
-10/29/2024
-
 # Oct 29, 2024
 
 # The Problem Number and Description
@@ -20,6 +18,6 @@ elif guess > num:
 # Revisons made:
 # Too many if statments confused the code. With the following corrections made the code now loops 
 # until the correct number is choosen.
-
+# Removed original program to allow revvised code to function properly.
 #Flowchart
 #https://drive.google.com/file/d/1FrVHObccMs5HFUgSfuSSeS7fRazzLCWv/view?usp=drive_link
