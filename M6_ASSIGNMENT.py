@@ -35,15 +35,5 @@ Revisons made:
 Too many if statments confused the code. With the following corrections made the code now loops 
 until the correct number is choosen.
 
-10/29/2024
-#Corinthian Miles
-
-# Lela Parks & Corinthian Miles
-
-# Oct 29, 2024
-
-# The Problem Number and Description
-# Program's function is suppose to place a random number for the user to estimate. 
-# If the answer is wrong then the code loops until the user guesses correctly.
-
+#Flowchart
 #https://drive.google.com/file/d/1FrVHObccMs5HFUgSfuSSeS7fRazzLCWv/view?usp=drive_link
