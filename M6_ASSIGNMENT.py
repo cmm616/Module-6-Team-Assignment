@@ -1,18 +1,4 @@
 10/29/2024
-#Corinthian Miles
-import random
-num = random.randrange(1, 12)
-guess = int(input("Enter an integer from 1 to 12: "))
-if guess < num:
-        print("guess is low")
-        guess = int(input("Enter an integer from 1 to 12: "))
-elif guess > num:
-    print("guess is high")
-    guess = int(input("Enter an integer from 1 to 12: "))
-else:
-    print("you guessed it right! Bye!")
-
-Revised:
 
 # Oct 29, 2024
 
