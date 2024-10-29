@@ -1,12 +1,12 @@
 10/29/2024
 #Corinthian Miles
 import random
-n = random.randrange(1, 12)
+num = random.randrange(1, 12)
 guess = int(input("Enter an integer from 1 to 12: "))
-if guess < n:
+if guess < num:
         print("guess is low")
         guess = int(input("Enter an integer from 1 to 12: "))
-elif guess > n:
+elif guess > num:
     print("guess is high")
     guess = int(input("Enter an integer from 1 to 12: "))
 else:
